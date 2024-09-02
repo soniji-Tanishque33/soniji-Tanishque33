@@ -1,8 +1,14 @@
 # 💫 About Me:
-# 👋 Hi, I’m Tanishque Soni<br><br>
-I'm a student at the Indian Institute of Technology, Dharwad, currently pursuing a degree in Mathematics and Computing. I have a strong foundation in various programming languages and a passion for developing innovative solutions.<br><br>
-- 👀 Interests<br>- Data Structures and Algorithms (C, Python, Java)<br>
-- Web Development (HTML, CSS, JavaScript, Bootstrap)<br>- Bash and Shell Scripting<br>
+# 👋 Hello World, I’m Tanishque Soni<br><br>
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<br><br>
+I'm a student at the Indian Institute of Technology, Dharwad, currently pursuing a degree in Mathematics and Computing. I have a strong foundation in various programming languages and a passion for developing innovative solutions.
+
+## 👀 Interests<br>
+- Data Structures and Algorithms (C, Python, Java)<br>
+- Web Development (HTML, CSS, JavaScript, Bootstrap)<br>
+- Bash and Shell Scripting<br>
 - AI/ML frameworks (TensorFlow, PyTorch, Scikit-learn)<br>
 - Assembly languages (ARM, x86)<br>- Game Development (Pygame)<br><br>
 
@@ -11,7 +17,8 @@ I'm a student at the Indian Institute of Technology, Dharwad, currently pursuing
 - Advanced AI/ML techniques<br>
 - ARM & x86 Assembly<br>
 - Enhanced game development with Pygame<br><br>
-## 📫 How to Reach Me<br>
+
+## Get in touch ☕<br>
 - Email: [220120025@iitdh.ac.in](mailto:220120025@iitdh.ac.in)<br>
 - GitHub: [soniji-Tanishque33](https://github.com/soniji-Tanishque33)<br>
 - LinkedIn: [Tanishque Soni](https://www.linkedin.com/in/tanishque-soni-366ba428b)
