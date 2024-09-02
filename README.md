@@ -10,7 +10,8 @@ I'm a student at the Indian Institute of Technology, Dharwad, currently pursuing
 - Web Development (HTML, CSS, JavaScript, Bootstrap)<br>
 - Bash and Shell Scripting<br>
 - AI/ML frameworks (TensorFlow, PyTorch, Scikit-learn)<br>
-- Assembly languages (ARM, x86)<br>- Game Development (Pygame)<br><br>
+- Assembly languages (ARM, x86)<br>
+- Game Development (Pygame)<br><br>
 
 ## 🌱 Currently Learning<br>
 - TensorFlow for deep learning applications<br>
