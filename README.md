@@ -39,6 +39,5 @@ I'm a student at the Indian Institute of Technology, Dharwad, currently pursuing
 ![](https://github-profile-trophy.vercel.app/?username=soniji-Tanishque33&theme=ambient_gradient&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=soniji-Tanishque33&icon=0&color=3)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=soniji-Tanishque33&label=Profile%20Views&color=3&pretty=true)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
